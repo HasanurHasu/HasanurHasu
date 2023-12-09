@@ -49,3 +49,12 @@
 ### 👯 I’m looking - To collaborate on open source web development projects.
 
 ### ⚡ Fun fact - I love creating intricate origami designs
+<br/>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HasanurHasu&theme=blue_green" alt="">
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HasanurHasu&theme=blue_green" alt="">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HasanurHasu&theme=blue_green" alt="">
+</p>
