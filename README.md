@@ -19,3 +19,12 @@
 <img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/react.png"/>
 <img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/tailwind.png"/>
 <br/>
+
+## :eyes: Current overview
+### 🔭 I am a Quick Learner in Web Development.
+
+### 🌱 I’m exploring - Advanced Frontend and Backend Technologies.
+
+### 👯 I’m looking - To collaborate on open source web development projects.
+
+### ⚡ Fun fact - I love creating intricate origami designs
