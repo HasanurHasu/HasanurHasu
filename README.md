@@ -1,20 +1,21 @@
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=HasanurHasu&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=HasanurHasu&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
 ### Hi I'm Hasanur Rahman 👋
 
 
-**HasanurHasu/HasanurHasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :computer: Technologies that I know
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/HTML.png"/>
+<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/css.png"/>
+<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/express.png"/>
+<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/JavaScript.png"/>
+<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/firebase.png"/>
+<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/mongo.png"/>
+<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/node.png"/>
+<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/react.png"/>
+<img src="https://raw.githubusercontent.com/sakibhossain22/sakibhossain22/main/images/tailwind.png"/>
+<br/>
