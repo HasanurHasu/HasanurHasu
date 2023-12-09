@@ -2,6 +2,10 @@
 <img src="https://raw.githubusercontent.com/HasanurHasu/HasanurHasu/main/images/banner.png" />
 </a>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=435&lines=Passionate++MERN+stack+developer." alt="">
+</p>
+
 ## :chart_with_upwards_trend: Current Stats
 
 <p align="center">
