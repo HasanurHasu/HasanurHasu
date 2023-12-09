@@ -20,6 +20,9 @@
     <a href="https://www.instagram.com/hasanurhasu122/">
         <img height="75" src="https://raw.githubusercontent.com/HasanurHasu/HasanurHasu/main/images/Twitter2.png">
     </a>
+    <a href="https://twitter.com/hasanurhasu127">
+        <img height="75" src="https://raw.githubusercontent.com/HasanurHasu/HasanurHasu/main/images/Twitter.png">
+    </a>
 </p>
 
 
